@@ -1,4 +1,5 @@
-## powerbi-Data-Professionals-Survey-Dashboard
+## PowerBI-Data-Professionals-Survey-Dashboard
+
 # Dashboard Features
 -- Average Salary by Job Title – Compare earnings across different roles
 -- Favorite Programming Languages – Identify popular tools in the industry
